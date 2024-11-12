@@ -1,0 +1,12 @@
+.counter {
+    text-align: center;
+    width: 150px;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    background-color: #90d260;
+    border-radius: 4rem;
+    margin-left: 3rem;
+    margin-top: 3rem;
+    box-shadow: 0 0 1.5rem rgba(255, 255, 255, 0.5);
+}
